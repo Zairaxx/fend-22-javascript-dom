@@ -1,3 +1,8 @@
+//OBS! Vi livekodaded nedan under lektionen,
+// Ni behöver inte förstå allt som är skrivet.
+// Detta är endast ett exempel på hur JS kan användas.
+
+
 let myStudents = [
     {
         name: "Fredrik",
